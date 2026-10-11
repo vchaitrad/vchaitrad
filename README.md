@@ -1,13 +1,7 @@
-# ⚡ Hi there, I'm vchaitrad! 
-
-Welcome to my code space! I love building creative projects and solving problems.
-
 ## 🏆 My Coding Trophies
-<img src="https://vercel.app" alt="Trophies" />
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=vchaitrad&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🐍 My Contribution Snake
-<img src="https://githubusercontent.com" alt="Snake Animation" />
 
----
-### 🛠️ Connect with Me
-- 💼 [LinkedIn](https://linkedin.com)
+![Snake Animation](https://raw.githubusercontent.com/vchaitrad/vchaitrad/output/github-contribution-grid-snake.svg)
