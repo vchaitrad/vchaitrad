@@ -3,12 +3,16 @@
 Welcome to my code space! I love building creative projects and solving problems.
 
 ## 🏆 My Coding Trophies
-<!-- This dynamically pulls your real GitHub milestones as cute retro trophies -->
-![](https://vercel.app)
+<!-- Fixed trophy connection link -->
+<p align="left">
+  <img src="https://vercel.app" alt="vchaitrad trophies" />
+</p>
 
 ## 🐍 My Contribution Snake
-<!-- This will animate a snake eating your commit blocks -->
-![](https://githubusercontent.com)
+<!-- Linked directly to your working output branch file -->
+<p align="left">
+  <img src="https://githubusercontent.com" alt="vchaitrad snake game" />
+</p>
 
 ---
 ### 🛠️ Connect with Me
