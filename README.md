@@ -3,12 +3,14 @@
 Welcome to my code space! I love building creative projects and solving problems.
 
 ## 🏆 My Coding Trophies
-<!-- This uses the official full URL to pull your cute trophies -->
-![](https://vercel.app)
+<p align="left">
+  <img src="https://vercel.app" alt="vchaitrad trophies" />
+</p>
 
 ## 🐍 My Contribution Snake
-<!-- This points to the correct raw SVG link in your repository output branch -->
-![](https://githubusercontent.com)
+<p align="left">
+  <img src="https://githubusercontent.com" alt="vchaitrad snake game" />
+</p>
 
 ---
 ### 🛠️ Connect with Me
